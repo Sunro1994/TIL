@@ -39,7 +39,7 @@
 
 ## 다형성
 
-- 다형성의 예시로는 Overriding, Overlading이 있다.
+- 다형성의 예시로는 Overriding, Overloading이 있다.
 
 ### Overriding
 - 부모 클래스의 메서드의 접근 제어자 보다 더 넓은 범위의 접근 제어자를 가져야 한다.

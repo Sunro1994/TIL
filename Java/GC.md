@@ -75,3 +75,7 @@ JVM의 Heap 영역은 처음 설계될 때 두 가지를 전제로 설계되었�
 - Old 영역은 Young영역보다 메모리 공간이 더 크기 떄문이 처리하는데 시간이 오래 걸리며, 10배 이상의 시간을 사용한다.
 
 
+
+[GC더 자세히 알기](https://github.com/GimunLee/tech-refrigerator/blob/master/Language/JAVA/Garbage%20Collection.md#garbage-collection)
+
+
